@@ -2,12 +2,12 @@
 
 const productos = [
   {
-    nombre: "Actron (600)",
+    nombre: "Actron600",
     precio: 2150,
   },
 
   {
-    nombre: "Actron 400",
+    nombre: "Actron400",
     precio: 975,
   },
 
@@ -42,7 +42,7 @@ const productos = [
   },
 
   {
-    nombre: "Ibuprofeno 600",
+    nombre: "Ibuprofeno600",
     precio: 330,
   },
 
@@ -72,17 +72,17 @@ const productos = [
   },
 
   {
-    nombre: "Tafirol 1g",
+    nombre: "Tafirol1g",
     precio: 760,
   },
 
   {
-    nombre: "Tafirol 500mg",
+    nombre: "Tafirol500mg",
     precio: 770,
   },
 
   {
-    nombre: "Tafirol Plus",
+    nombre: "TafirolPlus",
     precio: 1130,
   },
 
@@ -92,12 +92,12 @@ const productos = [
   },
 
   {
-    nombre: "Ibuevanol Rap. Acc",
+    nombre: "IbuevanolRap.Acc",
     precio: 760,
   },
 
   {
-    nombre: "Ibuevanol Plus",
+    nombre: "IbuevanolPlus",
     precio: 820,
   },
 
@@ -117,21 +117,21 @@ const productos = [
   },
 
   {
-    nombre: "Sertal Perla",
+    nombre: "SertalPerla",
     precio: 1550,
   },
 
   {
-    nombre: "Sertal Compuesto",
+    nombre: "SertalCompuesto",
     precio: 2010,
   },
   {
-    nombre: "Nolagina",
+    nombre: "Novalagina",
     precio: 2250,
   },
 
   {
-    nombre: "Sindol 600",
+    nombre: "Sindol600",
     precio: 800,
   },
 
