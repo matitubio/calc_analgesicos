@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Noto+Serif:wght@100;200;300;400&family=Open+Sans:wght@300;400;600&family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  text-decoration: none;
+}
+
+body {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.producto {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.producto p {
+  width: 60px; /* Puedes ajustar este valor según tus necesidades */
+  margin-top: 5px; /* Espacio entre el nombre y el precio */
+}
+
+/* Estilo adicional para el nombre del producto */
+.producto h4 {
+  margin-bottom: 5px;
+}
+
+#boton-comprar {
+  padding: 5px;
+  border-radius: 1rem;
+}
+
+/* Factura */
+
+.factura {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.factura-nombre {
+  display: flex;
+  gap: 5px;
+}
+
+.factura-titulos {
+  display: flex;
+  gap: 50px;
+}
+
+.factura-productos {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+.factura-total {
+  display: flex;
+  gap: 20px;
+}
+
+.producto-factura {
+  display: flex;
+  gap: 50px;
+}
