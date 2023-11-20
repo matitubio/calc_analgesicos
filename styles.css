@@ -20,6 +20,11 @@ body h1 {
   color: #ccc;
 }
 
+.titulo {
+  display: flex;
+  justify-content: center;
+}
+
 .contenedor {
   display: flex;
   flex-direction: column;
