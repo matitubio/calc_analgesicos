@@ -150,9 +150,13 @@ const cargarProductos = () => {
     const divProducto = document.createElement("div");
     divProducto.classList.add("producto");
 
+    // Variables para que cargar precio de lista y que calcule la ganancia
+    // const Ganancia = (producto.precio * 30) / 100;
+    // const precioFinal = producto.precio + Ganancia;
+
     divProducto.innerHTML = `
       <h4>${producto.nombre}</h4>
-      <p>$${producto.precio.toFixed(2)}</p>
+      <p>$${producto.precio}</p>
       <label for="${producto.nombre}">Cantidad:</label>
       <select name="${producto.nombre}" id="${producto.nombre}">
         <option>0</option>
@@ -163,6 +167,9 @@ const cargarProductos = () => {
         <option>6</option>
         <option>7</option>
         <option>8</option>
+        <option>9</option>
+        <option>10</option>
+        <option>30</option>
         <!-- Agrega más opciones según sea necesario -->
       </select>
     `;
