@@ -8,17 +8,22 @@ const productos = [
 
   {
     nombre: "Actron400",
-    precio: 975,
+    precio: 980,
   },
 
   {
     nombre: "Alikal",
-    precio: 240,
+    precio: 270,
   },
 
   {
     nombre: "Amoxicilina",
     precio: 640,
+  },
+
+  {
+    nombre: "Almaximo",
+    precio: 500,
   },
 
   {
@@ -33,7 +38,12 @@ const productos = [
 
   {
     nombre: "Cafiaspirina",
-    precio: 580,
+    precio: 590,
+  },
+
+  {
+    nombre: "Cafiaspirina Plus",
+    precio: 750,
   },
 
   {
@@ -78,7 +88,7 @@ const productos = [
 
   {
     nombre: "Tafirol500mg",
-    precio: 770,
+    precio: 780,
   },
 
   {
@@ -88,27 +98,27 @@ const productos = [
 
   {
     nombre: "Uvasal",
-    precio: 150,
+    precio: 170,
   },
 
   {
     nombre: "IbuevanolRap.Acc",
-    precio: 760,
+    precio: 880,
   },
 
   {
     nombre: "IbuevanolPlus",
-    precio: 820,
+    precio: 940,
   },
 
   {
     nombre: "Migral",
-    precio: 1510,
+    precio: 1520,
   },
 
   {
     nombre: "Refrianex",
-    precio: 1160,
+    precio: 1170,
   },
 
   {
@@ -132,7 +142,7 @@ const productos = [
 
   {
     nombre: "Sindol600",
-    precio: 800,
+    precio: 820,
   },
 
   {
@@ -163,6 +173,7 @@ const cargarProductos = () => {
         <option>1</option>
         <option>2</option>
         <option>3</option>
+        <option>4</option>
         <option>5</option>
         <option>6</option>
         <option>7</option>
