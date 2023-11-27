@@ -14,6 +14,7 @@
       </div>
       <div class="factura-titulos">
         <p>Producto</p>
+        <p>Precio</p>
         <p>Cantidad</p>
         <p>Total</p>
       </div>
@@ -45,8 +46,8 @@
         },
 
         {
-          nombre: "Amoxicilina",
-          precio: 740,
+          nombre: "Amoxidal",
+          precio: 830,
         },
 
         {
@@ -80,8 +81,23 @@
         },
 
         {
+          nombre: "Dorixina",
+          precio: 570,
+        },
+
+        {
           nombre: "Ibuprofeno600",
           precio: 330,
+        },
+
+        {
+          nombre: "IbuevanolRap.Acc",
+          precio: 880,
+        },
+
+        {
+          nombre: "IbuevanolPlus",
+          precio: 940,
         },
 
         {
@@ -95,8 +111,13 @@
         },
 
         {
-          nombre: "Tafirolito",
-          precio: 1600,
+          nombre: "Migral",
+          precio: 1520,
+        },
+
+        {
+          nombre: "Novalagina",
+          precio: 2250,
         },
 
         {
@@ -107,6 +128,26 @@
         {
           nombre: "Quraplus",
           precio: 1110,
+        },
+
+        {
+          nombre: "Refrianex",
+          precio: 1170,
+        },
+
+        {
+          nombre: "SertalPerla",
+          precio: 1550,
+        },
+
+        {
+          nombre: "SertalCompuesto",
+          precio: 2010,
+        },
+
+        {
+          nombre: "Sindol600",
+          precio: 820,
         },
 
         {
@@ -125,52 +166,13 @@
         },
 
         {
+          nombre: "Tafirolito",
+          precio: 1600,
+        },
+
+        {
           nombre: "Uvasal",
           precio: 170,
-        },
-
-        {
-          nombre: "IbuevanolRap.Acc",
-          precio: 880,
-        },
-
-        {
-          nombre: "IbuevanolPlus",
-          precio: 940,
-        },
-
-        {
-          nombre: "Migral",
-          precio: 1520,
-        },
-
-        {
-          nombre: "Refrianex",
-          precio: 1170,
-        },
-
-        {
-          nombre: "Dorixina",
-          precio: 570,
-        },
-
-        {
-          nombre: "SertalPerla",
-          precio: 1550,
-        },
-
-        {
-          nombre: "SertalCompuesto",
-          precio: 2010,
-        },
-        {
-          nombre: "Novalagina",
-          precio: 2250,
-        },
-
-        {
-          nombre: "Sindol600",
-          precio: 820,
         },
 
         {
@@ -216,9 +218,8 @@
       console.log("Cadena de Consulta:", window.location.search);
 
       for (const [producto, cantidad] of Object.entries(cantidades)) {
-        const precioUnitario = productos.find(
-          (p) => p.nombre === producto
-        ).precio;
+        const productoInfo = productos.find((p) => p.nombre === producto);
+        const precioUnitario = productoInfo.precio;
         const totalProducto = precioUnitario * cantidad;
         total += totalProducto;
 
@@ -226,15 +227,19 @@
         divProducto.classList.add("producto-factura");
 
         const pProducto = document.createElement("p");
-        pProducto.textContent = producto;
+        pProducto.textContent = `${producto}`;
+
+        const pPrecioUnitario = document.createElement("p");
+        pPrecioUnitario.textContent = `$${precioUnitario.toFixed(2)}`;
 
         const pCantidad = document.createElement("p");
-        pCantidad.textContent = cantidad;
+        pCantidad.textContent = `${cantidad}`;
 
         const pTotal = document.createElement("p");
         pTotal.textContent = `$${totalProducto.toFixed(2)}`;
 
         divProducto.appendChild(pProducto);
+        divProducto.appendChild(pPrecioUnitario);
         divProducto.appendChild(pCantidad);
         divProducto.appendChild(pTotal);
 

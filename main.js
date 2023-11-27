@@ -17,8 +17,8 @@ const productos = [
   },
 
   {
-    nombre: "Amoxicilina",
-    precio: 740,
+    nombre: "Amoxidal",
+    precio: 830,
   },
 
   {
@@ -52,8 +52,23 @@ const productos = [
   },
 
   {
+    nombre: "Dorixina",
+    precio: 570,
+  },
+
+  {
     nombre: "Ibuprofeno600",
     precio: 330,
+  },
+
+  {
+    nombre: "IbuevanolRap.Acc",
+    precio: 880,
+  },
+
+  {
+    nombre: "IbuevanolPlus",
+    precio: 940,
   },
 
   {
@@ -67,8 +82,13 @@ const productos = [
   },
 
   {
-    nombre: "Tafirolito",
-    precio: 1600,
+    nombre: "Migral",
+    precio: 1520,
+  },
+
+  {
+    nombre: "Novalagina",
+    precio: 2250,
   },
 
   {
@@ -79,6 +99,26 @@ const productos = [
   {
     nombre: "Quraplus",
     precio: 1110,
+  },
+
+  {
+    nombre: "Refrianex",
+    precio: 1170,
+  },
+
+  {
+    nombre: "SertalPerla",
+    precio: 1550,
+  },
+
+  {
+    nombre: "SertalCompuesto",
+    precio: 2010,
+  },
+
+  {
+    nombre: "Sindol600",
+    precio: 820,
   },
 
   {
@@ -97,52 +137,13 @@ const productos = [
   },
 
   {
+    nombre: "Tafirolito",
+    precio: 1600,
+  },
+
+  {
     nombre: "Uvasal",
     precio: 170,
-  },
-
-  {
-    nombre: "IbuevanolRap.Acc",
-    precio: 880,
-  },
-
-  {
-    nombre: "IbuevanolPlus",
-    precio: 940,
-  },
-
-  {
-    nombre: "Migral",
-    precio: 1520,
-  },
-
-  {
-    nombre: "Refrianex",
-    precio: 1170,
-  },
-
-  {
-    nombre: "Dorixina",
-    precio: 570,
-  },
-
-  {
-    nombre: "SertalPerla",
-    precio: 1550,
-  },
-
-  {
-    nombre: "SertalCompuesto",
-    precio: 2010,
-  },
-  {
-    nombre: "Novalagina",
-    precio: 2250,
-  },
-
-  {
-    nombre: "Sindol600",
-    precio: 820,
   },
 
   {
