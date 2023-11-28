@@ -17,6 +17,11 @@ const productos = [
   },
 
   {
+    nombre: "Amoxicilina",
+    precio: 740,
+  },
+
+  {
     nombre: "Amoxidal",
     precio: 830,
   },
@@ -42,7 +47,7 @@ const productos = [
   },
 
   {
-    nombre: "Cafiaspirina Plus",
+    nombre: "CafiaspirinaPlus",
     precio: 820,
   },
 
