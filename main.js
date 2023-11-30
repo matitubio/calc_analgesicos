@@ -38,7 +38,7 @@ const productos = [
 
   {
     nombre: "Buscapina",
-    precio: 2320,
+    precio: 2670,
   },
 
   {
@@ -78,7 +78,7 @@ const productos = [
 
   {
     nombre: "Keterolac",
-    precio: 220,
+    precio: 240,
   },
 
   {
@@ -93,7 +93,7 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 2250,
+    precio: 2710,
   },
 
   {
@@ -103,12 +103,12 @@ const productos = [
 
   {
     nombre: "Quraplus",
-    precio: 1110,
+    precio: 1200,
   },
 
   {
     nombre: "Refrianex",
-    precio: 1170,
+    precio: 1160,
   },
 
   {
@@ -118,7 +118,7 @@ const productos = [
 
   {
     nombre: "SertalCompuesto",
-    precio: 2010,
+    precio: 2130,
   },
 
   {
