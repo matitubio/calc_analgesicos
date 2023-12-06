@@ -42,7 +42,7 @@ body h1 {
   align-items: center;
   text-align: center;
   width: 30%; /* Ajusta según sea necesario, deja espacio para márgenes y rellenos */
-  margin: 10px; /* Espacio entre productos */
+  margin: 5px; /* Espacio entre productos */
 }
 
 .producto p {
