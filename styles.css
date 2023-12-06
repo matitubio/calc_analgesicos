@@ -27,7 +27,8 @@ body h1 {
 
 .contenedor {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
   /* gap: 2px; */
 }
 
@@ -40,6 +41,8 @@ body h1 {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  width: 30%; /* Ajusta según sea necesario, deja espacio para márgenes y rellenos */
+  margin: 10px; /* Espacio entre productos */
 }
 
 .producto p {
