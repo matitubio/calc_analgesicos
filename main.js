@@ -18,17 +18,17 @@ const productos = [
 
   {
     nombre: "Amoxicilina",
-    precio: 820,
+    precio: 990,
   },
 
   {
     nombre: "Amoxidal",
-    precio: 1010,
+    precio: 1520,
   },
 
   {
     nombre: "Almaximo",
-    precio: 500,
+    precio: 650,
   },
 
   {
@@ -38,7 +38,7 @@ const productos = [
 
   {
     nombre: "Buscapina",
-    precio: 2670,
+    precio: 3450,
   },
 
   {
@@ -53,12 +53,12 @@ const productos = [
 
   {
     nombre: "Diclofenac",
-    precio: 320,
+    precio: 440,
   },
 
   {
     nombre: "Dorixina",
-    precio: 700,
+    precio: 710,
   },
 
   {
@@ -78,52 +78,52 @@ const productos = [
 
   {
     nombre: "Keterolac",
-    precio: 270,
+    precio: 340,
   },
 
   {
     nombre: "Mejoralito",
-    precio: 1050,
+    precio: 1260,
   },
 
   {
     nombre: "Migral",
-    precio: 1860,
+    precio: 2270,
   },
 
   {
     nombre: "Mylanta",
-    precio: 1200,
+    precio: 1600,
   },
 
   {
     nombre: "Novalagina",
-    precio: 2710,
+    precio: 3010,
   },
 
   {
     nombre: "Omeprazol",
-    precio: 380,
+    precio: 440,
   },
 
   {
     nombre: "Quraplus",
-    precio: 1480,
+    precio: 1780,
   },
 
   {
     nombre: "Refrianex",
-    precio: 1450,
+    precio: 1860,
   },
 
   {
     nombre: "SertalPerla",
-    precio: 1910,
+    precio: 2290,
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 2600,
+    precio: 3110,
   },
 
   {
@@ -143,7 +143,7 @@ const productos = [
 
   {
     nombre: "TafirolPlus",
-    precio: 1180,
+    precio: 1340,
   },
 
   {
@@ -158,7 +158,7 @@ const productos = [
 
   {
     nombre: "Curitas",
-    precio: 230,
+    precio: 240,
   },
 ];
 
