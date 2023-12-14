@@ -133,22 +133,27 @@ const productos = [
 
   {
     nombre: "Tafirol1g",
-    precio: 900,
+    precio: 1080,
   },
 
   {
     nombre: "Tafirol500mg",
-    precio: 920,
+    precio: 1110,
   },
 
   {
     nombre: "TafirolPlus",
-    precio: 1340,
+    precio: 1600,
+  },
+
+  {
+    nombre: "TafirolFlex",
+    precio: 2460,
   },
 
   {
     nombre: "Tafirolito",
-    precio: 1900,
+    precio: 2280,
   },
 
   {
