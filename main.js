@@ -13,17 +13,17 @@ const productos = [
 
   {
     nombre: "Alikal",
-    precio: 270,
+    precio: 310,
   },
 
   {
     nombre: "Amoxicilina",
-    precio: 990,
+    precio: 970,
   },
 
   {
     nombre: "Amoxidal",
-    precio: 1520,
+    precio: 1650,
   },
 
   {
@@ -63,22 +63,22 @@ const productos = [
 
   {
     nombre: "Ibuprofeno600",
-    precio: 340,
+    precio: 510,
   },
 
   {
     nombre: "IbuevanolRap.Acc",
-    precio: 880,
+    precio: 990,
   },
 
   {
     nombre: "IbuevanolPlus",
-    precio: 940,
+    precio: 1060,
   },
 
   {
     nombre: "Keterolac",
-    precio: 340,
+    precio: 380,
   },
 
   {
@@ -103,7 +103,7 @@ const productos = [
 
   {
     nombre: "Omeprazol",
-    precio: 440,
+    precio: 550,
   },
 
   {
@@ -158,12 +158,12 @@ const productos = [
 
   {
     nombre: "Uvasal",
-    precio: 170,
+    precio: 190,
   },
 
   {
     nombre: "Curitas",
-    precio: 240,
+    precio: 230,
   },
 ];
 
