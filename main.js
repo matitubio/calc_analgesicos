@@ -28,7 +28,7 @@ const productos = [
 
   {
     nombre: "Almaximo",
-    precio: 650,
+    precio: 700,
   },
 
   {
@@ -38,7 +38,7 @@ const productos = [
 
   {
     nombre: "Buscapina",
-    precio: 3450,
+    precio: 3800,
   },
 
   {
@@ -82,6 +82,11 @@ const productos = [
   },
 
   {
+    nombre: "Loratadina",
+    precio: 420,
+  },
+
+  {
     nombre: "Mejoralito",
     precio: 1260,
   },
@@ -98,12 +103,17 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 3010,
+    precio: 3380,
   },
 
   {
     nombre: "Omeprazol",
     precio: 550,
+  },
+
+  {
+    nombre: "PastillaDeCarbon",
+    precio: 300,
   },
 
   {
