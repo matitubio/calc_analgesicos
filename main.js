@@ -103,7 +103,7 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 3380,
+    precio: 3370,
   },
 
   {
@@ -128,12 +128,12 @@ const productos = [
 
   {
     nombre: "SertalPerla",
-    precio: 2290,
+    precio: 2750,
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 3110,
+    precio: 3740,
   },
 
   {
