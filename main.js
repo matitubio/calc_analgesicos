@@ -13,12 +13,12 @@ const productos = [
 
   {
     nombre: "Alikal",
-    precio: 310,
+    precio: 360,
   },
 
   {
     nombre: "Amoxicilina",
-    precio: 970,
+    precio: 1250,
   },
 
   {
@@ -48,7 +48,7 @@ const productos = [
 
   {
     nombre: "CafiaspirinaPlus",
-    precio: 1080,
+    precio: 1100,
   },
 
   {
@@ -58,7 +58,7 @@ const productos = [
 
   {
     nombre: "Dorixina",
-    precio: 710,
+    precio: 840,
   },
 
   {
@@ -68,12 +68,12 @@ const productos = [
 
   {
     nombre: "IbuevanolRap.Acc",
-    precio: 990,
+    precio: 1170,
   },
 
   {
     nombre: "IbuevanolPlus",
-    precio: 1060,
+    precio: 1250,
   },
 
   {
@@ -103,17 +103,17 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 3370,
+    precio: 3460,
   },
 
   {
     nombre: "Omeprazol",
-    precio: 550,
+    precio: 570,
   },
 
   {
     nombre: "PastillaDeCarbon",
-    precio: 300,
+    precio: 310,
   },
 
   {
@@ -129,11 +129,13 @@ const productos = [
   {
     nombre: "SertalPerla",
     precio: 2750,
+    // 2290
   },
 
   {
     nombre: "SertalCompuesto",
     precio: 3740,
+    // 3310
   },
 
   {
@@ -168,12 +170,12 @@ const productos = [
 
   {
     nombre: "Uvasal",
-    precio: 190,
+    precio: 220,
   },
 
   {
     nombre: "Curitas",
-    precio: 230,
+    precio: 300,
   },
 ];
 
