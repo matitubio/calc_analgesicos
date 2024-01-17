@@ -78,22 +78,22 @@ const productos = [
 
   {
     nombre: "Keterolac",
-    precio: 450,
+    precio: 400,
   },
 
   {
     nombre: "Loratadina",
-    precio: 420,
+    precio: 540,
   },
 
   {
     nombre: "Mejoralito",
-    precio: 1260,
+    precio: 1510,
   },
 
   {
     nombre: "Migral",
-    precio: 2270,
+    precio: 2410,
   },
 
   {
@@ -123,7 +123,7 @@ const productos = [
 
   {
     nombre: "Refrianex",
-    precio: 1860,
+    precio: 2080,
   },
 
   {
@@ -150,7 +150,7 @@ const productos = [
 
   {
     nombre: "Tafirol500mg",
-    precio: 1110,
+    precio: 1240,
   },
 
   {
@@ -160,12 +160,12 @@ const productos = [
 
   {
     nombre: "TafirolFlex",
-    precio: 2460,
+    precio: 1980,
   },
 
   {
     nombre: "Tafirolito",
-    precio: 2280,
+    precio: 2180,
   },
 
   {
