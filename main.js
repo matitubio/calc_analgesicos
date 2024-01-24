@@ -43,7 +43,7 @@ const productos = [
 
   {
     nombre: "Buscapina",
-    precio: 3800,
+    precio: 3990,
   },
 
   {
@@ -108,12 +108,12 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 3460,
+    precio: 3980,
   },
 
   {
     nombre: "Omeprazol",
-    precio: 570,
+    precio: 580,
   },
 
   {
@@ -165,7 +165,7 @@ const productos = [
 
   {
     nombre: "TafirolPlus",
-    precio: 1600,
+    precio: 1610,
   },
 
   {
@@ -175,7 +175,7 @@ const productos = [
 
   {
     nombre: "Tafirolito",
-    precio: 2180,
+    precio: 2500,
   },
 
   {
