@@ -32,6 +32,11 @@ const productos = [
   },
 
   {
+    nombre: "Aspirineta",
+    precio: 420,
+  },
+
+  {
     nombre: "Bayaspirina",
     precio: 870,
   },
@@ -114,6 +119,11 @@ const productos = [
   {
     nombre: "PastillaDeCarbon",
     precio: 310,
+  },
+
+  {
+    nombre: "Ponstil",
+    precio: 1000,
   },
 
   {
