@@ -126,3 +126,16 @@ input {
   padding: 0.5rem;
   border-radius: 1rem;
 }
+
+@media screen and (max-width: 768px) {
+  .factura-productos {
+    overflow-x: hidden;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .factura-productos {
+    overflow-y: auto;
+    max-height: 80vh; /* Esto establece la altura máxima del contenedor al 80% de la altura del viewport */
+  }
+}
