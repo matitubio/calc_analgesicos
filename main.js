@@ -27,6 +27,11 @@ const productos = [
   },
 
   {
+    nombre: "Anaflex",
+    precio: 1520,
+  },
+
+  {
     nombre: "Almaximo",
     precio: 700,
   },
@@ -54,6 +59,11 @@ const productos = [
   {
     nombre: "CafiaspirinaPlus",
     precio: 1330,
+  },
+
+  {
+    nombre: "Dexalergin",
+    precio: 7000,
   },
 
   {
@@ -104,6 +114,11 @@ const productos = [
   {
     nombre: "Mylanta",
     precio: 1600,
+  },
+
+  {
+    nombre: "Next",
+    precio: 3270,
   },
 
   {
@@ -171,6 +186,11 @@ const productos = [
   {
     nombre: "TafirolFlex",
     precio: 1980,
+  },
+
+  {
+    nombre: "TafirolMigra",
+    precio: 2800,
   },
 
   {
