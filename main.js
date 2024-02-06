@@ -68,7 +68,7 @@ const productos = [
 
   {
     nombre: "Diclofenac",
-    precio: 440,
+    precio: 740,
   },
 
   {
@@ -93,7 +93,7 @@ const productos = [
 
   {
     nombre: "Keterolac",
-    precio: 400,
+    precio: 580,
   },
 
   {
