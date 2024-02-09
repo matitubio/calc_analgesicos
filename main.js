@@ -1,4 +1,4 @@
-// Productos
+// .Productos
 
 const productos = [
   {
