@@ -254,7 +254,7 @@ const cargarProductos = () => {
         <option>30</option>
         <!-- Agrega más opciones según sea necesario -->
       </select>
-      // <p class="sugerido">(Sug.$${precioRedondeado}) </p>
+     <p class="sugerido">(Sug.$${precioRedondeado}) </p>
     `;
 
     // Agregar el producto al contenedor
