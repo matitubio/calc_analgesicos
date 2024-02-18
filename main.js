@@ -199,6 +199,11 @@ const productos = [
   },
 
   {
+    nombre: "Te vick",
+    precio: 1250,
+  },
+
+  {
     nombre: "Uvasal",
     precio: 250,
   },
@@ -221,6 +226,9 @@ const cargarProductos = () => {
     // Variables para que cargar precio de lista y que calcule la ganancia
     // const Ganancia = (producto.precio * 30) / 100;
     // const precioFinal = producto.precio + Ganancia;
+
+    const precioSugerido = producto.precio + producto.precio * (40 / 100);
+    const precioRedondeado = Math.round(precioSugerido / 10) * 10;
 
     divProducto.innerHTML = `
       <h4>${producto.nombre}</h4>
@@ -246,12 +254,15 @@ const cargarProductos = () => {
         <option>30</option>
         <!-- Agrega más opciones según sea necesario -->
       </select>
+      // <p class="sugerido">(Sug.$${precioRedondeado}) </p>
     `;
 
     // Agregar el producto al contenedor
     contenedorProductos.appendChild(divProducto);
   });
 };
+
+// formulita +40% sugerido   producto.precio + producto.precio * (40 / 100)
 
 cargarProductos();
 
