@@ -23,7 +23,7 @@ const productos = [
 
   {
     nombre: "Amoxidal",
-    precio: 1810,
+    precio: 1870,
   },
 
   {
@@ -73,7 +73,7 @@ const productos = [
 
   {
     nombre: "Dorixina",
-    precio: 920,
+    precio: 1100,
   },
 
   {
@@ -98,7 +98,7 @@ const productos = [
 
   {
     nombre: "Loratadina",
-    precio: 540,
+    precio: 860,
   },
 
   {
@@ -108,7 +108,7 @@ const productos = [
 
   {
     nombre: "Migral",
-    precio: 2410,
+    precio: 2840,
   },
 
   {
@@ -143,23 +143,23 @@ const productos = [
 
   {
     nombre: "Quraplus",
-    precio: 1950,
+    precio: 2250,
   },
 
   {
     nombre: "Refrianex",
-    precio: 2080,
+    precio: 2400,
   },
 
   {
     nombre: "SertalPerla",
-    precio: 2750,
+    precio: 2900,
     // 2290
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 3740,
+    precio: 3940,
     // 3310
   },
 
@@ -200,7 +200,7 @@ const productos = [
 
   {
     nombre: "TeVick",
-    precio: 1250,
+    precio: 1690,
   },
 
   {
@@ -210,7 +210,7 @@ const productos = [
 
   {
     nombre: "Curitas",
-    precio: 320,
+    precio: 360,
   },
 ];
 
