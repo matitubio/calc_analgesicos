@@ -13,7 +13,7 @@ const productos = [
 
   {
     nombre: "Alikal",
-    precio: 420,
+    precio: 460,
   },
 
   {
@@ -63,12 +63,12 @@ const productos = [
 
   {
     nombre: "Dexalergin",
-    precio: 7000,
+    precio: 8100,
   },
 
   {
     nombre: "Diclofenac",
-    precio: 740,
+    precio: 770,
   },
 
   {
@@ -83,12 +83,12 @@ const productos = [
 
   {
     nombre: "IbuevanolRap.Acc",
-    precio: 1400,
+    precio: 1610,
   },
 
   {
     nombre: "IbuevanolPlus",
-    precio: 1500,
+    precio: 1730,
   },
 
   {
@@ -180,7 +180,7 @@ const productos = [
 
   {
     nombre: "TafirolPlus",
-    precio: 1830,
+    precio: 2080,
   },
 
   {
@@ -205,7 +205,7 @@ const productos = [
 
   {
     nombre: "Uvasal",
-    precio: 250,
+    precio: 270,
   },
 
   {
