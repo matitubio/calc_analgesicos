@@ -3,12 +3,12 @@
 const productos = [
   {
     nombre: "Actron600",
-    precio: 4450,
+    precio: 4930,
   },
 
   {
     nombre: "Actron400",
-    precio: 1920,
+    precio: 2000,
   },
 
   {
@@ -33,17 +33,17 @@ const productos = [
 
   {
     nombre: "Almaximo",
-    precio: 770,
+    precio: 1080,
   },
 
   {
     nombre: "Aspirineta",
-    precio: 500,
+    precio: 570,
   },
 
   {
     nombre: "Bayaspirina",
-    precio: 1040,
+    precio: 1200,
   },
 
   {
@@ -53,12 +53,12 @@ const productos = [
 
   {
     nombre: "Cafiaspirina",
-    precio: 1220,
+    precio: 1420,
   },
 
   {
     nombre: "CafiaspirinaPlus",
-    precio: 1590,
+    precio: 1850,
   },
 
   {
