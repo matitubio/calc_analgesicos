@@ -103,7 +103,7 @@ const productos = [
 
   {
     nombre: "Mejoralito",
-    precio: 1510,
+    precio: 1560,
   },
 
   {
@@ -153,13 +153,13 @@ const productos = [
 
   {
     nombre: "SertalPerla",
-    precio: 2900,
+    precio: 3040,
     // 2290
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 3940,
+    precio: 4140,
     // 3310
   },
 
