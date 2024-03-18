@@ -33,7 +33,7 @@ const productos = [
 
   {
     nombre: "Almaximo",
-    precio: 1080,
+    precio: 1120,
   },
 
   {
@@ -68,7 +68,7 @@ const productos = [
 
   {
     nombre: "Diclofenac",
-    precio: 770,
+    precio: 780,
   },
 
   {
@@ -138,12 +138,12 @@ const productos = [
 
   {
     nombre: "Ponstil",
-    precio: 1100,
+    precio: 1200,
   },
 
   {
     nombre: "Quraplus",
-    precio: 2250,
+    precio: 2450,
   },
 
   {
@@ -170,17 +170,17 @@ const productos = [
 
   {
     nombre: "Tafirol1g",
-    precio: 1280,
+    precio: 1410,
   },
 
   {
     nombre: "Tafirol500mg",
-    precio: 1420,
+    precio: 1500,
   },
 
   {
     nombre: "TafirolPlus",
-    precio: 2080,
+    precio: 2180,
   },
 
   {
@@ -190,7 +190,7 @@ const productos = [
 
   {
     nombre: "TafirolMigra",
-    precio: 2800,
+    precio: 2830,
   },
 
   {
@@ -200,7 +200,7 @@ const productos = [
 
   {
     nombre: "TeVick",
-    precio: 1690,
+    precio: 1200,
   },
 
   {
