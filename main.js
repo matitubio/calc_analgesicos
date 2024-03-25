@@ -13,7 +13,7 @@ const productos = [
 
   {
     nombre: "Alikal",
-    precio: 460,
+    precio: 500,
   },
 
   {
@@ -83,12 +83,12 @@ const productos = [
 
   {
     nombre: "IbuevanolRap.Acc",
-    precio: 1610,
+    precio: 1770,
   },
 
   {
     nombre: "IbuevanolPlus",
-    precio: 1730,
+    precio: 1900,
   },
 
   {
@@ -205,7 +205,7 @@ const productos = [
 
   {
     nombre: "Uvasal",
-    precio: 270,
+    precio: 300,
   },
 
   {
