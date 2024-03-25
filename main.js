@@ -108,7 +108,7 @@ const productos = [
 
   {
     nombre: "Migral",
-    precio: 2840,
+    precio: 3130,
   },
 
   {
@@ -148,7 +148,7 @@ const productos = [
 
   {
     nombre: "Refrianex",
-    precio: 2400,
+    precio: 2620,
   },
 
   {
