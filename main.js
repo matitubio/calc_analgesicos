@@ -251,7 +251,9 @@ const cargarProductos = () => {
         <option>13</option>
         <option>14</option>
         <option>15</option>
+        <option>20</option>
         <option>30</option>
+        <option>60</option>
         <!-- Agrega más opciones según sea necesario -->
       </select>
      <p class="sugerido">(Sug.$${precioRedondeado}) </p>
