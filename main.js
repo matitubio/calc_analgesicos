@@ -3,7 +3,7 @@
 const productos = [
   {
     nombre: "Actron600",
-    precio: 4930,
+    precio: 5330,
   },
 
   {
@@ -28,7 +28,7 @@ const productos = [
 
   {
     nombre: "Anaflex",
-    precio: 1520,
+    precio: 1690,
   },
 
   {
@@ -38,27 +38,27 @@ const productos = [
 
   {
     nombre: "Aspirineta",
-    precio: 570,
+    precio: 620,
   },
 
   {
     nombre: "Bayaspirina",
-    precio: 1200,
+    precio: 1270,
   },
 
   {
     nombre: "Buscapina",
-    precio: 4190,
+    precio: 4400,
   },
 
   {
     nombre: "Cafiaspirina",
-    precio: 1420,
+    precio: 1460,
   },
 
   {
     nombre: "CafiaspirinaPlus",
-    precio: 1850,
+    precio: 1880,
   },
 
   {
@@ -73,7 +73,7 @@ const productos = [
 
   {
     nombre: "Dorixina",
-    precio: 1100,
+    precio: 1190,
   },
 
   {
@@ -170,7 +170,7 @@ const productos = [
 
   {
     nombre: "Tafirol1g",
-    precio: 1410,
+    precio: 1530,
   },
 
   {
