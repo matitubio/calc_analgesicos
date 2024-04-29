@@ -200,7 +200,7 @@ const productos = [
 
   {
     nombre: "TeVick",
-    precio: 1200,
+    precio: 1500,
   },
 
   {
