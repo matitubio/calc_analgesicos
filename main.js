@@ -48,7 +48,7 @@ const productos = [
 
   {
     nombre: "Buscapina",
-    precio: 4400,
+    precio: 4620,
   },
 
   {
@@ -123,7 +123,7 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 4380,
+    precio: 4690,
   },
 
   {
@@ -165,7 +165,7 @@ const productos = [
 
   {
     nombre: "Sindol600",
-    precio: 1010,
+    precio: 2340,
   },
 
   {
@@ -201,6 +201,11 @@ const productos = [
   {
     nombre: "TeVick",
     precio: 1500,
+  },
+
+  {
+    nombre: "TeRolfita",
+    precio: 300,
   },
 
   {
