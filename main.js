@@ -3,12 +3,12 @@
 const productos = [
   {
     nombre: "Actron600",
-    precio: 5330,
+    precio: 5350,
   },
 
   {
     nombre: "Actron400",
-    precio: 2000,
+    precio: 2100,
   },
 
   {
@@ -23,7 +23,7 @@ const productos = [
 
   {
     nombre: "Amoxidal",
-    precio: 1870,
+    precio: 1950,
   },
 
   {
@@ -38,27 +38,27 @@ const productos = [
 
   {
     nombre: "Aspirineta",
-    precio: 620,
+    precio: 650,
   },
 
   {
     nombre: "Bayaspirina",
-    precio: 1270,
+    precio: 1350,
   },
 
   {
     nombre: "Buscapina",
-    precio: 4620,
+    precio: 4650,
   },
 
   {
     nombre: "Cafiaspirina",
-    precio: 1460,
+    precio: 1550,
   },
 
   {
     nombre: "CafiaspirinaPlus",
-    precio: 1880,
+    precio: 2000,
   },
 
   {
@@ -68,22 +68,22 @@ const productos = [
 
   {
     nombre: "Diclofenac",
-    precio: 910,
+    precio: 950,
   },
 
   {
     nombre: "Dorixina",
-    precio: 1190,
+    precio: 1200,
   },
 
   {
     nombre: "Ibuprofeno600",
-    precio: 580,
+    precio: 600,
   },
 
   {
     nombre: "IbuevanolRap.Acc",
-    precio: 1770,
+    precio: 1800,
   },
 
   {
@@ -93,22 +93,22 @@ const productos = [
 
   {
     nombre: "Keterolac",
-    precio: 580,
+    precio: 600,
   },
 
   {
     nombre: "Loratadina",
-    precio: 860,
+    precio: 900,
   },
 
   {
     nombre: "Mejoralito",
-    precio: 1630,
+    precio: 1650,
   },
 
   {
     nombre: "Migral",
-    precio: 3130,
+    precio: 3150,
   },
 
   {
@@ -123,17 +123,17 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 4690,
+    precio: 4700,
   },
 
   {
     nombre: "Omeprazol",
-    precio: 580,
+    precio: 600,
   },
 
   {
     nombre: "PastillaDeCarbon",
-    precio: 380,
+    precio: 500,
   },
 
   {
@@ -148,29 +148,29 @@ const productos = [
 
   {
     nombre: "Refrianex",
-    precio: 2620,
+    precio: 2650,
   },
 
   {
     nombre: "SertalPerla",
-    precio: 3040,
+    precio: 3050,
     // 2290
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 4140,
+    precio: 4150,
     // 3310
   },
 
   {
     nombre: "Sindol600",
-    precio: 2340,
+    precio: 2350,
   },
 
   {
     nombre: "Tafirol1g",
-    precio: 1530,
+    precio: 1550,
   },
 
   {
@@ -180,12 +180,12 @@ const productos = [
 
   {
     nombre: "TafirolPlus",
-    precio: 2180,
+    precio: 2200,
   },
 
   {
     nombre: "TafirolFlex",
-    precio: 1980,
+    precio: 2000,
   },
 
   {
@@ -215,7 +215,7 @@ const productos = [
 
   {
     nombre: "Curitas",
-    precio: 360,
+    precio: 400,
   },
 ];
 
