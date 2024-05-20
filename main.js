@@ -13,7 +13,7 @@ const productos = [
 
   {
     nombre: "Alikal",
-    precio: 500,
+    precio: 550,
   },
 
   {
@@ -23,7 +23,7 @@ const productos = [
 
   {
     nombre: "Amoxidal",
-    precio: 1950,
+    precio: 2100,
   },
 
   {
@@ -73,7 +73,7 @@ const productos = [
 
   {
     nombre: "Dorixina",
-    precio: 1200,
+    precio: 1300,
   },
 
   {
@@ -83,12 +83,12 @@ const productos = [
 
   {
     nombre: "IbuevanolRap.Acc",
-    precio: 1800,
+    precio: 1850,
   },
 
   {
     nombre: "IbuevanolPlus",
-    precio: 1900,
+    precio: 2000,
   },
 
   {
@@ -108,12 +108,12 @@ const productos = [
 
   {
     nombre: "Migral",
-    precio: 3150,
+    precio: 3350,
   },
 
   {
     nombre: "Mylanta",
-    precio: 1600,
+    precio: 1900,
   },
 
   {
@@ -143,17 +143,17 @@ const productos = [
 
   {
     nombre: "Quraplus",
-    precio: 2450,
+    precio: 2600,
   },
 
   {
     nombre: "Refrianex",
-    precio: 2650,
+    precio: 2900,
   },
 
   {
     nombre: "SertalPerla",
-    precio: 3050,
+    precio: 3250,
     // 2290
   },
 
@@ -170,17 +170,17 @@ const productos = [
 
   {
     nombre: "Tafirol1g",
-    precio: 1550,
+    precio: 1700,
   },
 
   {
     nombre: "Tafirol500mg",
-    precio: 1500,
+    precio: 1600,
   },
 
   {
     nombre: "TafirolPlus",
-    precio: 2200,
+    precio: 2250,
   },
 
   {
@@ -195,7 +195,7 @@ const productos = [
 
   {
     nombre: "Tafirolito",
-    precio: 2500,
+    precio: 2650,
   },
 
   {
@@ -215,7 +215,7 @@ const productos = [
 
   {
     nombre: "Curitas",
-    precio: 400,
+    precio: 500,
   },
 ];
 
