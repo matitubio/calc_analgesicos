@@ -204,6 +204,11 @@ const productos = [
   },
 
   {
+    nombre: "TeVENT3",
+    precio: 700,
+  },
+
+  {
     nombre: "TeRolfita",
     precio: 300,
   },
@@ -257,6 +262,7 @@ const cargarProductos = () => {
         <option>14</option>
         <option>15</option>
         <option>20</option>
+        <option>25</option>
         <option>30</option>
         <option>60</option>
         <!-- Agrega más opciones según sea necesario -->
