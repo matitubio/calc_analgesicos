@@ -62,6 +62,11 @@ const productos = [
   },
 
   {
+    nombre: "CaramelosCAnti",
+    precio: 2500,
+  },
+
+  {
     nombre: "Dexalergin",
     precio: 8100,
   },
