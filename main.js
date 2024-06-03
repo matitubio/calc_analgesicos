@@ -48,7 +48,7 @@ const productos = [
 
   {
     nombre: "Buscapina",
-    precio: 4650,
+    precio: 4800,
   },
 
   {
