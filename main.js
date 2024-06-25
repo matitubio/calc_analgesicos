@@ -148,7 +148,7 @@ const productos = [
 
   {
     nombre: "Quraplus",
-    precio: 2600,
+    precio: 2700,
   },
 
   {
@@ -158,13 +158,13 @@ const productos = [
 
   {
     nombre: "SertalPerla",
-    precio: 3250,
+    precio: 3400,
     // 2290
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 4150,
+    precio: 4300,
     // 3310
   },
 
