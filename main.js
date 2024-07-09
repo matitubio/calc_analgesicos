@@ -13,7 +13,7 @@ const productos = [
 
   {
     nombre: "Alikal",
-    precio: 550,
+    precio: 600,
   },
 
   {
@@ -23,17 +23,17 @@ const productos = [
 
   {
     nombre: "Amoxidal",
-    precio: 2100,
+    precio: 2200,
   },
 
   {
     nombre: "Anaflex",
-    precio: 1690,
+    precio: 1900,
   },
 
   {
     nombre: "Almaximo",
-    precio: 1120,
+    precio: 1200,
   },
 
   {
@@ -43,22 +43,22 @@ const productos = [
 
   {
     nombre: "Bayaspirina",
-    precio: 1450,
+    precio: 1500,
   },
 
   {
     nombre: "Buscapina",
-    precio: 4800,
+    precio: 4950,
   },
 
   {
     nombre: "Cafiaspirina",
-    precio: 1700,
+    precio: 1750,
   },
 
   {
     nombre: "CafiaspirinaPlus",
-    precio: 2150,
+    precio: 2250,
   },
 
   {
@@ -68,7 +68,7 @@ const productos = [
 
   {
     nombre: "Dexalergin",
-    precio: 8100,
+    precio: 10900,
   },
 
   {
@@ -78,7 +78,7 @@ const productos = [
 
   {
     nombre: "Dorixina",
-    precio: 1300,
+    precio: 1400,
   },
 
   {
@@ -113,17 +113,17 @@ const productos = [
 
   {
     nombre: "Migral",
-    precio: 3350,
+    precio: 3450,
   },
 
   {
     nombre: "Mylanta",
-    precio: 1900,
+    precio: 1950,
   },
 
   {
     nombre: "Next",
-    precio: 3270,
+    precio: 3300,
   },
 
   {
@@ -138,7 +138,7 @@ const productos = [
 
   {
     nombre: "PastillaDeCarbon",
-    precio: 500,
+    precio: 600,
   },
 
   {
@@ -148,12 +148,12 @@ const productos = [
 
   {
     nombre: "Quraplus",
-    precio: 2700,
+    precio: 2750,
   },
 
   {
     nombre: "Refrianex",
-    precio: 2900,
+    precio: 3000,
   },
 
   {
@@ -164,7 +164,7 @@ const productos = [
 
   {
     nombre: "SertalCompuesto",
-    precio: 4300,
+    precio: 4450,
     // 3310
   },
 
@@ -180,12 +180,12 @@ const productos = [
 
   {
     nombre: "Tafirol500mg",
-    precio: 1600,
+    precio: 1650,
   },
 
   {
     nombre: "TafirolPlus",
-    precio: 2250,
+    precio: 2350,
   },
 
   {
@@ -195,12 +195,12 @@ const productos = [
 
   {
     nombre: "TafirolMigra",
-    precio: 2830,
+    precio: 3300,
   },
 
   {
     nombre: "Tafirolito",
-    precio: 2650,
+    precio: 2800,
   },
 
   {
@@ -215,12 +215,12 @@ const productos = [
 
   {
     nombre: "TeRolfita",
-    precio: 300,
+    precio: 400,
   },
 
   {
     nombre: "Uvasal",
-    precio: 300,
+    precio: 350,
   },
 
   {
