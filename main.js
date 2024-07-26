@@ -128,7 +128,7 @@ const productos = [
 
   {
     nombre: "Novalagina",
-    precio: 5050,
+    precio: 4900,
   },
 
   {
@@ -148,12 +148,12 @@ const productos = [
 
   {
     nombre: "Quraplus",
-    precio: 2750,
+    precio: 2900,
   },
 
   {
     nombre: "Refrianex",
-    precio: 3000,
+    precio: 3100,
   },
 
   {
@@ -185,7 +185,7 @@ const productos = [
 
   {
     nombre: "TafirolPlus",
-    precio: 2350,
+    precio: 2450,
   },
 
   {
