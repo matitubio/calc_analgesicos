@@ -8,7 +8,7 @@ const productos = [
 
   {
     nombre: "Actron400",
-    precio: 2100,
+    precio: 2200,
   },
 
   {
@@ -23,7 +23,7 @@ const productos = [
 
   {
     nombre: "Amoxidal",
-    precio: 2200,
+    precio: 2300,
   },
 
   {
@@ -43,22 +43,22 @@ const productos = [
 
   {
     nombre: "Bayaspirina",
-    precio: 1500,
+    precio: 1550,
   },
 
   {
     nombre: "Buscapina",
-    precio: 4950,
+    precio: 5150,
   },
 
   {
     nombre: "Cafiaspirina",
-    precio: 1750,
+    precio: 1800,
   },
 
   {
     nombre: "CafiaspirinaPlus",
-    precio: 2250,
+    precio: 2300,
   },
 
   {
@@ -108,12 +108,12 @@ const productos = [
 
   {
     nombre: "Mejoralito",
-    precio: 1700,
+    precio: 1800,
   },
 
   {
     nombre: "Migral",
-    precio: 3450,
+    precio: 3650,
   },
 
   {
@@ -158,13 +158,13 @@ const productos = [
 
   {
     nombre: "SertalPerla",
-    precio: 3400,
+    precio: 3500,
     // 2290
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 4450,
+    precio: 4600,
     // 3310
   },
 
@@ -200,7 +200,7 @@ const productos = [
 
   {
     nombre: "Tafirolito",
-    precio: 2800,
+    precio: 2900,
   },
 
   {
@@ -215,7 +215,7 @@ const productos = [
 
   {
     nombre: "TeRolfita",
-    precio: 400,
+    precio: 450,
   },
 
   {
