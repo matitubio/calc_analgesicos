@@ -1,5 +1,3 @@
-// .Productos
-
 const productos = [
   {
     nombre: "Actron600",
@@ -18,12 +16,12 @@ const productos = [
 
   {
     nombre: "Amoxicilina",
-    precio: 1250,
+    precio: 1350,
   },
 
   {
     nombre: "Amoxidal",
-    precio: 2300,
+    precio: 2350,
   },
 
   {
@@ -39,6 +37,11 @@ const productos = [
   {
     nombre: "Aspirineta",
     precio: 700,
+  },
+
+  {
+    nombre: "Azitromicina",
+    precio: 1500,
   },
 
   {
@@ -68,7 +71,7 @@ const productos = [
 
   {
     nombre: "Dexalergin",
-    precio: 10900,
+    precio: 11500,
   },
 
   {
@@ -108,7 +111,7 @@ const productos = [
 
   {
     nombre: "Mejoralito",
-    precio: 1800,
+    precio: 1850,
   },
 
   {
@@ -118,7 +121,7 @@ const productos = [
 
   {
     nombre: "Mylanta",
-    precio: 1950,
+    precio: 2100,
   },
 
   {
@@ -148,7 +151,7 @@ const productos = [
 
   {
     nombre: "Quraplus",
-    precio: 2900,
+    precio: 3000,
   },
 
   {
@@ -158,14 +161,19 @@ const productos = [
 
   {
     nombre: "SertalPerla",
-    precio: 3500,
+    precio: 3600,
     // 2290
   },
 
   {
     nombre: "SertalCompuesto",
-    precio: 4600,
+    precio: 4700,
     // 3310
+  },
+
+  {
+    nombre: "SildenafilVENT3x30",
+    precio: 6500,
   },
 
   {
@@ -175,17 +183,17 @@ const productos = [
 
   {
     nombre: "Tafirol1g",
-    precio: 1700,
+    precio: 1800,
   },
 
   {
     nombre: "Tafirol500mg",
-    precio: 1650,
+    precio: 1700,
   },
 
   {
     nombre: "TafirolPlus",
-    precio: 2450,
+    precio: 2550,
   },
 
   {
@@ -195,12 +203,12 @@ const productos = [
 
   {
     nombre: "TafirolMigra",
-    precio: 3300,
+    precio: 3600,
   },
 
   {
     nombre: "Tafirolito",
-    precio: 2900,
+    precio: 3100,
   },
 
   {
@@ -226,6 +234,11 @@ const productos = [
   {
     nombre: "Curitas",
     precio: 500,
+  },
+
+  {
+    nombre: "Enc.CANDELAx25",
+    precio: 8000,
   },
 ];
 
