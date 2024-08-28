@@ -160,6 +160,11 @@ const productos = [
   },
 
   {
+    nombre: "SildenafilVENT3x30",
+    precio: 6500,
+  },
+
+  {
     nombre: "SertalPerla",
     precio: 3600,
     // 2290
@@ -169,11 +174,6 @@ const productos = [
     nombre: "SertalCompuesto",
     precio: 4700,
     // 3310
-  },
-
-  {
-    nombre: "SildenafilVENT3x30",
-    precio: 6500,
   },
 
   {
