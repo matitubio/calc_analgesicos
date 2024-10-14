@@ -1,0 +1,23 @@
+poner dentro del body del index
+ 
+
+<!-- <div class="titulo">
+      <h1>
+        <i class="bi bi-capsule"></i> Analgesicos
+        <i class="bi bi-capsule"></i>
+      </h1>
+    </div>
+    <input
+      type="text"
+      name="nombre"
+      id="nombre"
+      placeholder="Nombre del cliente"
+    />
+
+    <div class="contenedor" id="productos-container">
+      
+    </div>
+
+    <button id="boton-comprar">Enviar</button>
+
+    <script src="./main.js"></script> -->
